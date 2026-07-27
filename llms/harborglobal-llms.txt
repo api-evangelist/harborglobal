@@ -1,0 +1,28 @@
+# Harbor Global
+
+> Harbor Global is a global professional-services firm delivering technology, operations, strategy, and intelligence consulting to law firms, corporate legal departments, and government legal teams. Harbor is a portfolio company of Norwest Venture Partners. This is an API Evangelist network profile — Harbor Global is a services company and does not publish a public API, developer portal, or SDKs.
+
+## About
+- [About Harbor Global](https://harborglobal.com/about/): Firm overview, organization, values, and heritage.
+- [Leadership](https://harborglobal.com/about/leadership/): Executive leadership team.
+- [Sectors](https://harborglobal.com/sectors/): Law firms, corporate legal, and government legal sectors served.
+
+## Services
+- [Services overview](https://harborglobal.com/services/): Strategy, legal technology and operations, intelligence and research, and vendor governance.
+- [Assess & Implement](https://harborglobal.com/services/assess-implement/)
+- [Guide & Transform](https://harborglobal.com/services/guide-transform/)
+- [Operate & Evolve](https://harborglobal.com/services/operate-evolve/)
+- [Community & Insights](https://harborglobal.com/services/community-insights/)
+
+## Insights
+- [News](https://harborglobal.com/about/news/): Company news and announcements.
+- [Resources](https://harborglobal.com/resources/): Briefs, reports, and Legal Soundings podcast.
+
+## Legal
+- [Business Terms](https://harborglobal.com/legal/business-terms/)
+- [Privacy Statement](https://harborglobal.com/legal/privacy-statement/)
+- [Vulnerability Disclosure Policy](https://harborglobal.com/legal/vulnerability-disclosure/)
+
+## Contact
+- [Contact Us](https://harborglobal.com/contact-us/)
+- [Careers](https://harborglobal.com/careers/)

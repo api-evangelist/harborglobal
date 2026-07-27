@@ -1,9 +1,29 @@
 aid: harborglobal
-name: Harborglobal
-description: 'Harborglobal is a company surfaced as a portfolio company of norwest-venture-partners and
-  added to the API Evangelist network as a stub for enrichment. Sector: unknown. This profile is a lead
-  awaiting the enrichment pipeline.'
+name: Harbor Global
+description: 'Harbor Global is a global professional-services firm delivering technology,
+  operations, strategy, and intelligence consulting to law firms, corporate legal
+  departments, and government legal teams. Its practice areas span legal-technology
+  and operations (application management, process automation, AI enablement), strategic
+  advisory, intelligence and research/library services, and vendor governance, delivered
+  by a global team of specialists. Harbor has grown through acquisitions such as iTrain
+  (UK legal-technology training and AI enablement) and CE Global Partners (HCM/HR and
+  payroll transformation). It is a portfolio company of Norwest Venture Partners. Harbor
+  Global is a services company and does not publish a public API, developer portal,
+  or SDKs; this profile is maintained in the API Evangelist network for company identity
+  and discovery.'
 url: https://raw.githubusercontent.com/api-evangelist/harborglobal/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://harborglobal.com/brand/harbor-logo-primary.svg
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -12,10 +32,17 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
-- Unknown
+- Legal Technology
+- Legal Operations
+- Consulting
+- Professional Services
+- Legal
+- Managed Services
+- Vendor Governance
+- Artificial Intelligence
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +52,32 @@ maintainers:
 common:
 - type: Website
   url: https://harborglobal.com
+- type: About
+  url: https://harborglobal.com/about/
+- type: Blog
+  url: https://harborglobal.com/about/news/
+- type: Support
+  url: https://harborglobal.com/contact-us/
+- type: Careers
+  url: https://harborglobal.com/careers/
+- type: TermsOfService
+  url: https://harborglobal.com/legal/business-terms/
+- type: PrivacyPolicy
+  url: https://harborglobal.com/legal/privacy-statement/
+- type: VulnerabilityDisclosure
+  url: security/harborglobal-vulnerability-disclosure.yml
+- type: Security
+  url: https://harborglobal.com/legal/vulnerability-disclosure/
+- type: DomainSecurity
+  url: security/harborglobal-domain-security.yml
+- type: LLMsTxt
+  url: llms/harborglobal-llms.txt
+- type: LinkedIn
+  url: https://www.linkedin.com/company/harborglobal
+- type: Twitter
+  url: https://twitter.com/harbor_tweets
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
