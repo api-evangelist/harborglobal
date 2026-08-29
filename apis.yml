@@ -12,6 +12,9 @@ description: 'Harbor Global is a global professional-services firm delivering te
   or SDKs; this profile is maintained in the API Evangelist network for company identity
   and discovery.'
 url: https://raw.githubusercontent.com/api-evangelist/harborglobal/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "Harbor Global is a services company and does not publish a public API, developer portal, or SDKs; this profile is maintained in the API Evangelist network for company identity and discovery."
 deliveryModel:
   model: saas
   open_source: false
